@@ -1,0 +1,18 @@
+Jim Holden
+13.25
+40 10 40 10 40 10 40 10
+Naomi Nagata
+11.75
+36 0 40 0 40 0 30 0
+Amos Burton
+11.75
+40 5 40 0 40 2 40 5
+Frankie Adams
+14.65
+40 0 40 0 40 0 40 0
+Fred Johnson
+41300
+1 1 1 1
+Chrisjen Avasarala
+39800
+1 0 1 1
