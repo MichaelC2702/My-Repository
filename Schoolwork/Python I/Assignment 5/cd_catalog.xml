@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<CD>
+		<ARTIST>Bob Dylan</ARTIST>
+		<TITLE>Empire Burlesque</TITLE>
+		<DECADE>80s</DECADE>
+	</CD>
+
+	<CD>
+		<ARTIST>Tyer Title</ARTIST>
+		<TITLE>Hide your heart</TITLE>
+		<DECADE>80s</DECADE>
+	</CD>
+	<CD>		
+		<ARTIST>Weird Al Yankovic</ARTIST>
+		<TITLE>Bad Hair Day</TITLE>
+		<DECADE>90s</DECADE>
+	</CD>
+</CATALOG>
